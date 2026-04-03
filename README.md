@@ -56,19 +56,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nigelbecholtz&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nigelbecholtz&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=nigelbecholtz&theme=transparent&hide_border=true" />
-</p>
-
----
-
 ### 🤝 Connect With Me
 
 <p align="center">
@@ -78,7 +65,7 @@
 <a href="https://linkedin.com/in/nigel-becholtz" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Nigel%20Becholtz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:nigel.becholtz@gmail.com">
+<a href="mailto:becholtz.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
